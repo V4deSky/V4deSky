@@ -19,5 +19,5 @@
 
 <!-- РАБОЧАЯ КАРТОЧКА СТАТИСТИКИ (БЕЗ БЛОКИРОВОК) -->
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Статистика" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=V4deSky&show_icons=true&theme=gotham" alt="V4deSky" />
 </p>
