@@ -1,11 +1,11 @@
-<img src="https://i.redd.it/mi5zh2d3wab71.png" align="left" height="500" width="1000" />  
+<img src="https://i.redd.it/mi5zh2d3wab71.png" align="left" height="480" width="970" />  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-</td></tr></table>  
+</td></tr> 
 
 <br/>  
 
@@ -67,6 +67,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
