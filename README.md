@@ -30,6 +30,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>  
 </div>  
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=V4deSky&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
+
+## WakaTime Stats
+<div aling="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@081bdac1-469f-4b9e-98fe-98ddcd3b0901/44af3646-e052-4171-bc36-9ac52df8d2d2.png" /></a>
+</div>
